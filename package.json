@@ -1,0 +1,9 @@
+{
+  "name":"mon-app",
+  "version":"0.1.0",
+  "description":"ceci est une app de test",
+
+  "dependencies":{
+    "markdown":"~0.5.0"
+  }
+}
